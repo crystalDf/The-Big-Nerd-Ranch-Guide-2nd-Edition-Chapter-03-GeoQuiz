@@ -15,15 +15,7 @@ public class Question {
         return mTextResId;
     }
 
-    public void setTextResId(int textResId) {
-        mTextResId = textResId;
-    }
-
     public boolean isAnswerTrue() {
         return mAnswerTrue;
-    }
-
-    public void setAnswerTrue(boolean answerTrue) {
-        mAnswerTrue = answerTrue;
     }
 }
