@@ -18,4 +18,5 @@ public class Question {
     public boolean isAnswerTrue() {
         return mAnswerTrue;
     }
+
 }
